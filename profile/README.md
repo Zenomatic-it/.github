@@ -7,13 +7,13 @@
     Nati per colmare il divario tra complessità tecnologica e obiettivi di business.
   </p>
 
-  <a href="https://zenomatic.it">
+  <a href="https://zenomatic.it" target="_blank">
     <img src="https://img.shields.io/badge/Website-zenomatic.it-blue?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/company/zenomatic">
+  <a href="https://www.linkedin.com/company/zenomatic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:info@zenomatic.it">
+  <a href="mailto:info@zenomatic.it" target="_blank">
     <img src="https://img.shields.io/badge/Email-info%40zenomatic.it-blue?style=for-the-badge" />
   </a>
 </div>
@@ -88,7 +88,7 @@ Siamo basati nel cuore dell'innovazione campana.
   <h2>Sei pronto a crescere con noi?</h2>
   <p>Portiamo il tuo business nel futuro senza complicarti la vita.</p>
   <br />
-  <a href="https://zenomatic.it/contatti">
+  <a href="https://zenomatic.it/contatti" target="_blank">
     <img src="https://img.shields.io/badge/PARLA_CON_IL_TEAM-blue?style=for-the-badge&logoColor=white" alt="Contattaci" />
   </a>
 </div>
