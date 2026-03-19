@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://zenomatic.it/logo.png" alt="Zenomatic Logo" width="300" />
+  <img src="https://zenomatic.it/logo.svg" alt="Zenomatic Logo" width="300" />
   <br />
   <h3>Tecnici del Cambiamento.</h3>
   <p>
